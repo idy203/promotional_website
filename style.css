@@ -17,6 +17,30 @@ body{
   margin-bottom: 25px;
 }
 
+a:link{
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+  font-family: alegraya;
+  color: #B1B1B0;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #5F4C6B;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active{
+  color: #FCD9DC;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 #headerImage{
   background-position: fixed;
 }
